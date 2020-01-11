@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+ text-shadow: black;
+ text-rendering: optimizeLegibility;
+}
+
+h2 {
+  text-align: center;
+}
+.column {
+  align-self: center;
+}
+
+@media screen and (min-width: 2000px) {
+  .column {
+    width: 500px;
+    float: left;
+    padding: 30px;
+  }
+  }   
+
+  .intro{
+    color: rgb(58, 9, 47);
+  }
