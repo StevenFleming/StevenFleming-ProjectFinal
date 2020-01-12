@@ -1,28 +1,33 @@
-# Project Title
-> Short blurb about what your product does.
+#Steven Fleming Week One Project
 
-One Paragraph of project description goes here, there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+#### Epicodus Project One, Jan 11 2020
 
+#### By Steven Fleming
+## Description
 
+This is a Html Website that is showcasing my previous work experience, hobbies and other projects for Epicodus. It uses both Images text and links to other websites to explore each of these elements of my life. 
 
+## Setup/Installation Requirements
 
+* Clone Repository 
+* Open HTMl in top level of folder
+* Open in browser of your choice
 
-## Table of Contents
+## No Known Bugs
 
-- [Project Title](#project-title)
-	- [Getting Started](#getting-started)
-		- [Prerequisites and dependencies](#prerequisites-and-dependencies)
-			- [Third Party Libraries](#third-party-libraries)
-		- [Build](#build)
-		- [Running](#running)
-		- [Running the tests](#running-the-tests)
-		- [Break down into end to end tests](#break-down-into-end-to-end-tests)
-		- [And coding style tests](#and-coding-style-tests)
-	- [Deployment](#deployment)
-	- [API Reference](#api-reference)
-	- [Permissions](#permissions)
-	- [Versioning](#versioning)
-	- [Release History](#release-history)
-	- [Contributors](#contributors)
-	- [License](#license)
-	- [Acknowledgments](#acknowledgments)
+## Support and contact details
+
+If you run into trouble using the webpage or have further questions please contact me at 12flemings@gmail.com
+
+## Technologies Used
+
+Used Html and css, also used Bootstrap for styling text and formating
+### License
+
+Copyright (c) 2020 **Steven Fleming**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
