@@ -1,4 +1,3 @@
-#Steven Fleming Week One Project
 
 #### Epicodus Project One, Jan 11 2020
 
