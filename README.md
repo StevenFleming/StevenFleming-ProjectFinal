@@ -4,7 +4,7 @@
 #### By Steven Fleming
 ## Description
 
-This is a Html Website that is showcasing my previous work experience, hobbies and other projects for Epicodus. It uses both Images text and links to other websites to explore each of these elements of my life. View this page at https://github.com/StevenFleming/StevenFleming-ProjectFinal.git
+This is a Html Website that is showcasing my previous work experience, hobbies and other projects for Epicodus. It uses both Images text and links to other websites to explore each of these elements of my life. View this page at https://stevenfleming.github.io/StevenFleming-ProjectFinal
 
 ## Setup/Installation Requirements
 
